@@ -1,5 +1,4 @@
 # mirrordev
-Config files for my GitHub profile.
 - 👋 Hi, I’m @File-Server-G1i
 - 👀 I’m interested in Cydia.
 - 🌱 I’m currently learning ethical hacking.
