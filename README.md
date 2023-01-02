@@ -3,4 +3,4 @@
 - 👀 I’m interested in Cydia.
 - 🌱 I’m currently learning ethical hacking.
 - 💞️ I’m looking to collaborate on macOS, Tails, Android, Tor, or ChatGPT.
-- 📫 How to reach me ... please don't.
+- 📫 How to reach me... please don't.
